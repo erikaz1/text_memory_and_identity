@@ -36,6 +36,3 @@ I believe we must investigate how to expand beyond these obvious borders. Compar
 
 I will start my investigation with the American **Frances Willard** (1839-1898) and add other figures to my corpus later, time permitting.
 <br>
-
-
-one short paragraph describing your "data" (e.g., texts, corpus, labels, etc.); and a final short paragraph describing the three methods you expect to use. 
