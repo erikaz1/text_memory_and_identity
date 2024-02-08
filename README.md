@@ -1,7 +1,6 @@
 ### Identity in Personal and Collective memory: A Lens Through Text Analysis
-<font color="salmon">Final Project for Computational Content Analysis (Winter 2024)</font>
-
-$${\color{Salmon}Erika \spaceP. \spaceZhang}$$
+Final Project for Computational Content Analysis (Winter 2024)
+$${\color{Salmon}Erika\space P.\space Zhang}$$
 
 Primary RQ: 
 To what extent has the history of people or individuals been preserved in our collective memory in a way that is at odds with individual recollection? 
