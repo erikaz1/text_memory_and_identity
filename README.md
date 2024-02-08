@@ -17,9 +17,14 @@ Person Alignment
 - Interviews 
 - Biography (maybe)
 - Speeches (collected but maybe will leave out)
+Dimensions of analysis
+- Qualitative coding of thoughts (https://delibdemjournal.org/article/331/galley/4742/view/)
+- Opinion vs. fact; Presentation as opinion vs. fact 
 <br>
 
 **Methods:** <br>
+
+
 Four separate collections of documents representing the four sources of “recorded history” to compare. As for (a), (b), I can split my corpus into train and test portions. For ©, it might be interesting to look at a different historical figure and create a completely new corpus, and see if the model might apply (though the exact verbs and nouns will likely be different and need to be reidentified.)
 (Exactly what each of these collections will contain is still under the works. I’m not sure if I will be able to collect all of this data by Friday, but definitely within the next few days.) 
 <br>
