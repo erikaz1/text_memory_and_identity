@@ -1,5 +1,5 @@
 ### Identity in Personal and Collective memory: A Lens Through Text Analysis
-Final Project for Computational Content Analysis (Winter 2024)
+<font color="salmon">Final Project for Computational Content Analysis (Winter 2024)</font>
 Erika P. Zhang
 
 Primary RQ: 
