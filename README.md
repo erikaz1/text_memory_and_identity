@@ -3,7 +3,7 @@ $${\color{Salmon}Final\space Project\space for\space Computational\space Content
 <p align="center">Erika P. Zhang</p>
 
 **Primary RQ: <br>**
-**To what extent has the history of people or individuals been preserved in our collective memory in a way that is at odds with individual recollection?** 
+To what extent has the history of people or individuals been preserved in our collective memory in a way that is at odds with individual recollection?
 - What do the possible findings (discrepancy) mean?
 - Is there a better way to remember and understand people as a society?
 <br>
