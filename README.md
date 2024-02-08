@@ -15,6 +15,7 @@ Person Alignment
 - Interviews 
 - Biography (maybe)
 - Speeches (collected but maybe will leave out)<br>
+
 Dimensions of analysis
 - Qualitative coding of thoughts (https://delibdemjournal.org/article/331/galley/4742/view/)
 - Opinion vs. fact; Presentation as opinion vs. fact 
