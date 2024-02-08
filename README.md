@@ -6,8 +6,6 @@ $${\color{Salmon}Final\space Project\space for\space Computational\space Content
 **To what extent has the history of people or individuals been preserved in our collective memory in a way that is at odds with individual recollection?** 
 - What do the possible findings (discrepancy) mean?
 - Is there a better way to remember and understand people as a society?
-
-I will predict whether the types of verbs and proper nouns in FW’s journals differ compared to those in news articles, interviews, and textbooks on FW. (Classification task.)
 <br>
 
 **Data:** <br>
@@ -23,10 +21,9 @@ Dimensions of analysis
 <br>
 
 **Methods:** <br>
-
-
-Four separate collections of documents representing the four sources of “recorded history” to compare. As for (a), (b), I can split my corpus into train and test portions. For ©, it might be interesting to look at a different historical figure and create a completely new corpus, and see if the model might apply (though the exact verbs and nouns will likely be different and need to be reidentified.)
-(Exactly what each of these collections will contain is still under the works. I’m not sure if I will be able to collect all of this data by Friday, but definitely within the next few days.) 
+1. Firstly, I would like to create semantic dimensions from embeddings and project different groups of word vectors into these dimensions in order to uncover whether the meanings of important concepts are different for FW compared to historical recollection. We expect to see more divergence on topics related to FW's social life (for instance), and more uniformity on topics related to her legacy and public persona. It will also be possible to plot linguistic change through FW's journals.
+2. Secondly, I would like to analyze the types of thoughts captured through text. Stromer-Galley (2007) proposes a coding scheme to "measure deliberation" by grouping thoughts as: problem, metatalk, process, or social. I add a fifth dimension "reputation". I hypothesize that sources like Wikipedia tend to focus on reputation and process-based ideas, whereas a more complete and engaging picture is one that involves a little bit of everything: problem, meta, process, and social.  
+3. Lastly, I'm interested in potentially using LLMs to model interactions.
 <br>
 
 **Why?** <br>
