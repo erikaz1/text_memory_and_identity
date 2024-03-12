@@ -18,3 +18,5 @@ Part Two
 - Francis Willards' personal journals
 - Digital archive pages collected from first two pages of google search results
 
+Main cleaned data: [Here](https://drive.google.com/drive/folders/10RSqaGkyg5z5LLoW8gD6HJfaNwtmvJ2D?usp=sharing) 
+
