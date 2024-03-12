@@ -22,19 +22,19 @@ Main cleaned data: [Here](https://drive.google.com/drive/folders/10RSqaGkyg5z5LL
 
 ## How To Navigate This Repo:
 1. Data Collection
-   * [s2orc_apidata.ipynb](https://github.com/erikaz1/text_memory_and_identity/blob/main/data_collection/s2orc_apidata.ipynb): Retrieve paper abstracts from S2ORC using their API
-   * [webscraping_eyewitness.ipynb](https://github.com/erikaz1/text_memory_and_identity/blob/main/data_collection/webscraping_eyewitness.ipynb): Scraper for gathering eyewitness testimonies
-   * [frames.ipynb](https://github.com/erikaz1/text_memory_and_identity/blob/main/data_collection/frames.ipynb): Generate frames
-   * [embed_eyewitness.ipynb](https://github.com/erikaz1/text_memory_and_identity/blob/main/data_collection/embed_eyewitness.ipynb): Generate embeddings with v3 Small
-   * [eyewitness_testimonies_subcollection](https://github.com/erikaz1/text_memory_and_identity/blob/main/data_collection/embed_eyewitness.ipynb): raw eyewitness data
-   * [s2orc_abstracts_subcollection](https://github.com/erikaz1/text_memory_and_identity/blob/main/data_collection/embed_eyewitness.ipynb): raw abstracts data
-   * [eyewitness_abstracts_frame_list](eyewitness_abstracts_frame_list): completed data, ready for analysis 
+   * [s2orc_apidata.ipynb](https://github.com/erikaz1/text_memory_and_identity/blob/main/data_collection/s2orc_apidata.ipynb): First, we start with data collection tasks. This file retrieves paper abstracts from S2ORC using their API.
+   * [webscraping_eyewitness.ipynb](https://github.com/erikaz1/text_memory_and_identity/blob/main/data_collection/webscraping_eyewitness.ipynb): Next, construct a scraper for gathering eyewitness testimonies on [Holocaust survivor eyewitness testimonies](https://www.testifyingtothetruth.co.uk/viewer/).
+   * [eyewitness_testimonies_subcollection](https://github.com/erikaz1/text_memory_and_identity/blob/main/data_collection/embed_eyewitness.ipynb): Raw eyewitness data.
+   * [s2orc_abstracts_subcollection](https://github.com/erikaz1/text_memory_and_identity/blob/main/data_collection/embed_eyewitness.ipynb): Raw abstracts data.
+   * [frames.ipynb](https://github.com/erikaz1/text_memory_and_identity/blob/main/data_collection/frames.ipynb): Generate frames.
+   * [embed_eyewitness.ipynb](https://github.com/erikaz1/text_memory_and_identity/blob/main/data_collection/embed_eyewitness.ipynb): Generate embeddings with v3 Small.
+   * [eyewitness_abstracts_frame_list](eyewitness_abstracts_frame_list): Completed data, ready for analysis.
 2. Exploration
-   * [explore_embeddings2.ipynb](https://github.com/erikaz1/text_memory_and_identity/blob/main/exploration/explore_embeddings2.ipynb): visualizations of embeddings
-   * [explore_frames.ipynb](https://github.com/erikaz1/text_memory_and_identity/blob/main/exploration/explore_frames.ipynb): frame definitions, projections
-   * [antonym_projections.ipynb](https://github.com/erikaz1/text_memory_and_identity/blob/main/exploration/antonym_projections.ipynb): generate antonym word-pairs and visualize
+   * [explore_embeddings2.ipynb](https://github.com/erikaz1/text_memory_and_identity/blob/main/exploration/explore_embeddings2.ipynb): Generate visualizations of embeddings.
+   * [explore_frames.ipynb](https://github.com/erikaz1/text_memory_and_identity/blob/main/exploration/explore_frames.ipynb): Investigate frames, generate frame definitions and projections.
+   * [antonym_projections.ipynb](https://github.com/erikaz1/text_memory_and_identity/blob/main/exploration/antonym_projections.ipynb): Generate antonym word-pairs and visualize.
 4. FW - Part Two
-   * [embed_fw.ipynb](https://github.com/erikaz1/text_memory_and_identity/blob/main/fw_part_two/embed_fw.ipynb): Generate embeddings with v3 Small
-   * [fw_embeddings_0214-1.ipynb](https://github.com/erikaz1/text_memory_and_identity/blob/main/fw_part_two/fw_embeddings_0214-1.ipynb): Visualizations using TF-IDF sparse embeddings
-   * [dn_text_all_clean_0310.csv](dn_text_all_clean_0310.csv): completed fw data, ready for analysis
-   * [fw_llm_exploded_doclvl.csv](fw_llm_exploded_doclvl.csv): expanded df for embedding
+   * [embed_fw.ipynb](https://github.com/erikaz1/text_memory_and_identity/blob/main/fw_part_two/embed_fw.ipynb): Generate embeddings with v3 Small.
+   * [dn_text_all_clean_0310.csv](dn_text_all_clean_0310.csv): Completed fw data, ready for analysis.
+   * [fw_llm_exploded_doclvl.csv](fw_llm_exploded_doclvl.csv): Expanded df for embedding.
+   * [fw_embeddings_0214-1.ipynb](https://github.com/erikaz1/text_memory_and_identity/blob/main/fw_part_two/fw_embeddings_0214-1.ipynb): Visualizations using TF-IDF sparse embeddings.
