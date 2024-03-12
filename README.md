@@ -18,7 +18,7 @@ Part Two
 - Francis Willards' personal journals
 - Digital archive pages collected from first two pages of google search results
 
-Main cleaned data: [Here](https://drive.google.com/drive/folders/10RSqaGkyg5z5LLoW8gD6HJfaNwtmvJ2D?usp=sharing) 
+All data files: [Here](https://drive.google.com/drive/folders/10RSqaGkyg5z5LLoW8gD6HJfaNwtmvJ2D?usp=sharing) 
 
 ## How To Navigate This Repo:
 1. Data Collection
