@@ -10,5 +10,7 @@ This project explores the perceived challenges faced by a student in recounting 
 
 
 **Data:** <br>
-- Journals
+- Francis Willards' personal journals
+- Digital archive pages collected from first two pages of google search results
+- Holocaust survivor eyewitness testimonies 
 
