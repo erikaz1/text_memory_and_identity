@@ -20,3 +20,5 @@ Part Two
 
 Main cleaned data: [Here](https://drive.google.com/drive/folders/10RSqaGkyg5z5LLoW8gD6HJfaNwtmvJ2D?usp=sharing) 
 
+## How To Navigate This Repo:
+1. 
