@@ -12,7 +12,7 @@ This project explores the perceived challenges faced by a student in recounting 
 **Data:** <br>
 Part One
 - [Holocaust survivor eyewitness testimonies](https://www.testifyingtothetruth.co.uk/viewer/)
-- Academic paper abstracts
+- [Academic paper abstracts](https://github.com/allenai/s2orc)
 
 Part Two
 - Francis Willards' personal journals
