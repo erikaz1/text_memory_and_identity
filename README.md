@@ -1,4 +1,4 @@
-# <p align="center">Identity in Personal and Collective memory: A Lens Through Text Analysis</p>
+# <p align="center">Investigating Information Complexity and Compression in Personal and Public Recollections</p>
 $${\color{Salmon}Final\space Project\space for\space Computational\space Content\space Analysis\space (Winter\space 2024)}$$
 <p align="center">Erika P. Zhang</p>
 
@@ -21,4 +21,15 @@ Part Two
 Main cleaned data: [Here](https://drive.google.com/drive/folders/10RSqaGkyg5z5LLoW8gD6HJfaNwtmvJ2D?usp=sharing) 
 
 ## How To Navigate This Repo:
-1. 
+1. Data Collection
+   * [s2orc_apidata.ipynb](https://github.com/erikaz1/text_memory_and_identity/blob/main/data_collection/s2orc_apidata.ipynb): Retrieve paper abstracts from S2ORC using their API
+   * [webscraping_eyewitness.ipynb](https://github.com/erikaz1/text_memory_and_identity/blob/main/data_collection/webscraping_eyewitness.ipynb): Scraper for gathering eyewitness testimonies
+   * [frames.ipynb](https://github.com/erikaz1/text_memory_and_identity/blob/main/data_collection/frames.ipynb): Generate frames
+   * [embed_eyewitness.ipynb](https://github.com/erikaz1/text_memory_and_identity/blob/main/data_collection/embed_eyewitness.ipynb): Generate embeddings
+   * [eyewitness_testimonies_subcollection](https://github.com/erikaz1/text_memory_and_identity/blob/main/data_collection/embed_eyewitness.ipynb): raw eyewitness data
+   * [s2orc_abstracts_subcollection](https://github.com/erikaz1/text_memory_and_identity/blob/main/data_collection/embed_eyewitness.ipynb): raw abstracts data
+2. Exploration
+   * [antonym_projections.ipynb](https://github.com/erikaz1/text_memory_and_identity/blob/main/exploration/antonym_projections.ipynb): generate antonym word-pairs and visualize
+   * [explore_embeddings2.ipynb](https://github.com/erikaz1/text_memory_and_identity/blob/main/exploration/explore_embeddings2.ipynb): visualizations of embeddings
+   * [explore_frames.ipynb](https://github.com/erikaz1/text_memory_and_identity/blob/main/exploration/explore_frames.ipynb): frame definitions, projections
+3. 
