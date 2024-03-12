@@ -23,7 +23,7 @@ Main cleaned data: [Here](https://drive.google.com/drive/folders/10RSqaGkyg5z5LL
 ## How To Navigate This Repo:
 1. Data Collection
    * [s2orc_apidata.ipynb](https://github.com/erikaz1/text_memory_and_identity/blob/main/data_collection/s2orc_apidata.ipynb): First, we start with data collection tasks. This file retrieves paper abstracts from S2ORC using their API.
-   * [webscraping_eyewitness.ipynb](https://github.com/erikaz1/text_memory_and_identity/blob/main/data_collection/webscraping_eyewitness.ipynb): Next, construct a scraper for gathering eyewitness testimonies on [Holocaust survivor eyewitness testimonies](https://www.testifyingtothetruth.co.uk/viewer/).
+   * [webscraping_eyewitness.ipynb](https://github.com/erikaz1/text_memory_and_identity/blob/main/data_collection/webscraping_eyewitness.ipynb): Next, construct a scraper for gathering eyewitness testimonies from [this site](https://www.testifyingtothetruth.co.uk/viewer/).
    * [eyewitness_testimonies_subcollection](https://github.com/erikaz1/text_memory_and_identity/blob/main/data_collection/embed_eyewitness.ipynb): Raw eyewitness data.
    * [s2orc_abstracts_subcollection](https://github.com/erikaz1/text_memory_and_identity/blob/main/data_collection/embed_eyewitness.ipynb): Raw abstracts data.
    * [frames.ipynb](https://github.com/erikaz1/text_memory_and_identity/blob/main/data_collection/frames.ipynb): Generate frames.
